@@ -1,0 +1,12 @@
+Modifying null value
+Modifying empty value
+Testing value: aabbc
+Result value: c
+Testing value: aab
+Result value: b
+Testing value: aabb
+Result value: 
+Testing value: abfbaf
+Result value: abfbaf
+Testing value: abccbaf
+Result value: f

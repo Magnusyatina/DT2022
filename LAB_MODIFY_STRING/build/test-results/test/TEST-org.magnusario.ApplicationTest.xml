@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.magnusario.ApplicationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-12T22:59:37" hostname="DESKTOP-HC7PMAI" time="0.345">
+  <properties/>
+  <testcase name="testModifyingNullValue()" classname="org.magnusario.ApplicationTest" time="0.248"/>
+  <testcase name="testModifyingEmptyValue()" classname="org.magnusario.ApplicationTest" time="0.008"/>
+  <testcase name="testModificationString()" classname="org.magnusario.ApplicationTest" time="0.086"/>
+  <system-out><![CDATA[Modifying null value
+Modifying empty value
+Testing value: aabbc
+Result value: c
+Testing value: aab
+Result value: b
+Testing value: aabb
+Result value: 
+Testing value: abfbaf
+Result value: abfbaf
+Testing value: abccbaf
+Result value: f
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
